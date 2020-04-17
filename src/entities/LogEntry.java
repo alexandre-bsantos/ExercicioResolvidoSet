@@ -23,7 +23,11 @@ public class LogEntry {
 	public void setMoment(Date moment) {
 		this.moment = moment;
 	}
+<<<<<<< HEAD
 	
+=======
+	/*
+>>>>>>> aa64db19ef1dd06b17ae6a51929ed09fc6c8d3b5
 	@Override
 	public int hashCode() {
 		final int prime = 31;
@@ -47,5 +51,9 @@ public class LogEntry {
 			return false;
 		return true;
 	}
+<<<<<<< HEAD
 	
+=======
+	*/
+>>>>>>> aa64db19ef1dd06b17ae6a51929ed09fc6c8d3b5
 }
